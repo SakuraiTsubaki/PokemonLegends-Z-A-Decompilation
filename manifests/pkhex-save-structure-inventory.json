@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "source": "https://github.com/kwsch/PKHeX",
+  "retrieved_at": "2026-09-14",
+  "target": "ZA",
+  "status": "catalogued-current-tree",
+  "main_save": ["PKHeX.Core/Saves/SAV9ZA.cs","cde13aa03e26c3f469310b4ce2ce0bacb2db01fd"],
+  "block_accessor": ["PKHeX.Core/Saves/Access/SaveBlockAccessor9ZA.cs","dbb44483b2087a7216c1701bb7148a107c350584"],
+  "substructures": {
+    "path": "PKHeX.Core/Saves/Substructures/Gen9/ZA",
+    "tree_sha": "0a05f980c394f8f090506b3be8b91a361ed60beb",
+    "truncated": false,
+    "files": [
+      ["BlankBlocks9a.cs","6100348e6ce7f2e3e87495a649cdd15da100a64b"],
+      ["BoxLayout9a.cs","a513c375e363c1167432789dc5829493f10a6b7d"],
+      ["ColorfulScrew9a.cs","b670d862a1fd92b6953552e4d9d6b7abbf40358f"],
+      ["ConfigSave9a.cs","8c19889d64d98952c3134cd7de0128db923c8fd1"],
+      ["Coordinates9a.cs","d268f413fac34233ab864a00d3304a4165700de8"],
+      ["DonutPocket9a.cs","c07bc41ff5afd3eb6db96788f848bda1dc37df5a"],
+      ["EventWorkStorage64.cs","d643a180f06049c74ee79faa47254c2bf44690bf"],
+      ["FashionItem9a.cs","9f1ada281a852caebbadf935a3ff144eb3f77921"],
+      ["HairMakeItem9a.cs","d7f0f72303732a2b9e73a83d22181805e3bc579f"],
+      ["HyperspaceZones9a.cs","a7cd877c747a107b42bd1a2db6d4b3587510a6e5"],
+      ["IEventValueStorage.cs","6566d4c7db914863f67c6d9bd29fcdd7112f1267"],
+      ["InfiniteRoyale9a.cs","c323578616de192daadcd8e128d7e3a980a09dce"],
+      ["MableStatus9a.cs","ce690c8cf1e17f96f216ccffdf4c1e63ddef4c2c"],
+      ["MyItem9a.cs","65afee1cb4f3ad932b00e8ada0deabbbff69030f"],
+      ["MyStatus9a.cs","43dc117a4fe789c9febfda9d8bee8bc057feeca7"],
+      ["Party9a.cs","6594cfe895b2e50b09d4ff7754934ed6818ab228"],
+      ["PlayTime9a.cs","b346724b0a88824bb08dd014a431bc3e1e246908"],
+      ["PlayerAppearence9a.cs","8e6d295ca08acb8fc3a1a9892f62895bfefcbeed"],
+      ["PlayerFashion9a.cs","1ad39e365f604b66f4fbfd46664797a67bdc2942"],
+      ["PokeDexEntry9a.cs","1c6000e10489ebe134ecd812ed7b883dda5cc1c8"],
+      ["TechnicalMachine9a.cs","cf9bc9b0b3189cb15d769efef24b3a93fc774e41"],
+      ["Zukan9a.cs","15b84b14d579d7624ae7e97efcee5839aa77e983"]
+    ]
+  },
+  "notes": "Complete current PKHeX Gen9/ZA substructure directory inventory at retrieval time. Public source evidence only; not project Observed. Z-A is maintained separately from SV. Future upstream changes are detected by tree/file SHA comparison."
+}
